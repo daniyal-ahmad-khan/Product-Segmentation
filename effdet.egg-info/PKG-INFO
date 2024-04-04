@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: effdet
+Version: 0.1.0
+Summary: EfficientDet
+Author: Israel
+License: MIT
+Requires-Dist: torch>1.5
+Requires-Dist: efficientnet_pytorch>=0.7.0
+Requires-Dist: numpy>=1
